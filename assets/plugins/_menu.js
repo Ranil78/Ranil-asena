@@ -37,7 +37,7 @@ Description: ${i.desc}\`\`\``);
 ┃ ⎆  *TIME*: ${time}
 ┃ ⎆  *COMMANDS*: ${plugins.commands.length} 
 ┃ ⎆  *UPTIME*: ${clockString(process.uptime())} 
-╰━━━━ © Lucky - MD ━━━\n`;
+╰━━━━ © Laky - MD ━━━\n`;
       let cmnd = [];
       let cmd;
       let category = [];
